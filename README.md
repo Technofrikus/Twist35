@@ -6,8 +6,8 @@ Inside is based on the [SK Vault Case](https://github.com/seirin-blu/SK-Vault-35
 
 0 degree typing angle
 
-![0 Degree Case](https://github.com/Technofrikus/Twist35/graphics/Twist35-front.png?raw=true)
-![0 Degree Case](https://github.com/Technofrikus/Twist35/graphics/Twist35-back.png?raw=true)
+![0 Degree Case](https://github.com/Technofrikus/Twist35/blob/main/graphics/Twist35-front.png)
+![0 Degree Case](https://github.com/Technofrikus/Twist35/blob/main/graphics/Twist35-back.png)
 
 ## Print instructions
 
