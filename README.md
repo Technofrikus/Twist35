@@ -1,5 +1,22 @@
-# SK-Vault 35 Case
+# Twist35 Case
 
-3, 6, and 16 models have 3, 6, and 16º angles. Holes are 1.8mm wide, 4mmm deep for 3d printing. You will need to edit the F3D file or contanct me to change the size of these if you intend to machine them.
+Case for the [travaulta PCB](https://github.com/calvin-mcd/travaulta/tree/main) by calvin. All other Vault35 (HHKB) PCBs should fit as well.
 
-![3 Degree Case](https://github.com/seirin-blu/SK-Vault35-Case/blob/main/SK%20Vault35%203.png?raw=true)
+Inside is based on the [SK Vault Case](https://github.com/seirin-blu/SK-Vault-35-Case) by Seirin Blu. Thanks for providing the Fusion file! Made it much easier to modify.
+
+0 degree typing angle
+
+![0 Degree Case](https://github.com/Technofrikus/Twist35/graphics/Twist35-front.png?raw=true)
+![0 Degree Case](https://github.com/Technofrikus/Twist35/graphics/Twist35-back.png?raw=true)
+
+## Print instructions
+
+Multicolor printing:
+(commands from OrcaSlicer when using a single extruder machine without MMU/AMS, but should be similar in others)
+
+- import
+- right click, split to objects.
+- Select all object and assemble
+- Add two filaments (3 in total) and select colors of the filament accordingly (correct colors so flughing from black to white is done properly)
+- Change the colors of the parts accordingly
+- Add a manual color change at 16mm when sliced. M600 is the gcode.
