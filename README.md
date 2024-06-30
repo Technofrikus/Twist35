@@ -4,8 +4,6 @@ Case for the [travaulta PCB](https://github.com/calvin-mcd/travaulta/tree/main) 
 
 Inside is based on the [SK Vault Case](https://github.com/seirin-blu/SK-Vault-35-Case) by Seirin Blu. Thanks for providing the Fusion file! Made it much easier to modify.
 
-0 degree typing angle
-
 ![Twist35](https://github.com/Technofrikus/Twist35/blob/main/graphics/twist35-02.jpg)
 ![Twist35](https://github.com/Technofrikus/Twist35/blob/main/graphics/twist35-01.jpg)
 ![Twist35](https://github.com/Technofrikus/Twist35/blob/main/graphics/twist35-03.jpg)
